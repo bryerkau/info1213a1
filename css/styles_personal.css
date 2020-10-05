@@ -1,0 +1,92 @@
+body {
+  background-color: #eeecda;
+  font-family: sans-serif;
+}
+
+.title {
+  color: #b83b5e;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+.face {
+  width: 25%;
+  float: none;
+}
+
+.last_name {
+  color: #f08a5d;
+}
+
+.contact_list {
+  background-color: #6a2c70;
+  color: #eeecda;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+.about_list {
+  background-color: #6a2c70;
+  color: #eeecda;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+.about_table {
+  table-layout: fixed;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.professional {
+  color: #f08a5d;
+  text-decoration: underline;
+  text-align: center;
+  line-height: 50%;
+}
+
+.personal {
+  background-color: #f08a5d;
+  color: #eeecda;
+  text-decoration: underline;
+  text-align: center;
+  line-height: 50%;
+}
+
+.link_color {
+  color: #f08a5d;
+}
+
+table {
+  width: 50%;
+  table-layout: fixed;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th {
+  text-decoration: underline;
+}
+
+h2 {
+  color: #b83b5e;
+  text-align: center;
+}
+
+strong {
+  text-decoration: underline;
+}
+
+p {
+  color: #6a2c70;
+}
+
+ul {
+  color: #eeecda;
+  list-style-type: none;
+  padding-left: 0;
+}
